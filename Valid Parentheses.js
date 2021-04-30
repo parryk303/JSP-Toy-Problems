@@ -46,4 +46,4 @@ console.log(
   isValid('(]'), //false
   isValid('([)]'), //false
   isValid('{[]}'), //true
-)
+);
